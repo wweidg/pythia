@@ -84,6 +84,8 @@
 }
 .flow_shape {
 }
+.line {
+}
 .shape {
 }
 textarea, select, input, button { outline: none; }
